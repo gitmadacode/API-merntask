@@ -4,7 +4,7 @@
   "description": "mern api para mern task",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node index.js",
     "dev": "nodemon ."
   },
   "author": "madacode",
